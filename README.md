@@ -4,6 +4,7 @@
 This is a simple implementation of an optimized bubble sort.
 
 Input: array of numbers
+
 Output: sorted array of numbers (destructive mutation)
 
 ## Examples: 
